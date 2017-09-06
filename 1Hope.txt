@@ -1,0 +1,14 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B210-9D84
+
+ Directory of C:\Users\Administrator\Desktop\JavaProject1
+
+09/06/2017  05:53 PM    <DIR>          .
+09/06/2017  05:53 PM    <DIR>          ..
+09/06/2017  05:53 PM                 0 1Hope.txt
+09/06/2017  11:19 AM               674 Hello.class
+09/06/2017  10:12 AM               148 Hello.java
+09/06/2017  05:30 PM               518 info.txt
+09/06/2017  05:12 PM               469 readme.txt
+               5 File(s)          1,809 bytes
+               2 Dir(s)  305,832,824,832 bytes free
